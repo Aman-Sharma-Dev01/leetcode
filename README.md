@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0065-valid-number](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/0065-valid-number) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
