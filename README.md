@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/0067-add-binary) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/3536-maximum-product-of-two-digits) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0065-valid-number](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/0065-valid-number) |
+| [0067-add-binary](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/0067-add-binary) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/0067-add-binary) |
 | [1260-shift-2d-grid](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Stack
@@ -151,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/0067-add-binary) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Counting
 |  |
