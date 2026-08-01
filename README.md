@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/0064-minimum-path-sum) |
+| [0486-predict-the-winner](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/0486-predict-the-winner) |
 | [1260-shift-2d-grid](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/0064-minimum-path-sum) |
+| [0486-predict-the-winner](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/0486-predict-the-winner) |
 | [1301-number-of-paths-with-max-score](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [3620-network-recovery-pathways](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/0067-add-binary) |
+| [0486-predict-the-winner](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/0486-predict-the-winner) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/3536-maximum-product-of-two-digits) |
@@ -175,8 +178,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/0050-powx-n) |
+| [0486-predict-the-winner](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/0486-predict-the-winner) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/0053-maximum-subarray) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
