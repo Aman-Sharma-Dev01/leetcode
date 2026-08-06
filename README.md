@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/0031-next-permutation) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/0057-insert-interval) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0704-binary-search](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/0704-binary-search) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
