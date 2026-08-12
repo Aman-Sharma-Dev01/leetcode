@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/0064-minimum-path-sum) |
+| [0283-move-zeroes](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/0283-move-zeroes) |
 | [0486-predict-the-winner](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/0486-predict-the-winner) |
 | [0704-binary-search](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/0704-binary-search) |
 | [1260-shift-2d-grid](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/1260-shift-2d-grid) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/0031-next-permutation) |
+| [0283-move-zeroes](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/0283-move-zeroes) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
