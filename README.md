@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/0031-next-permutation) |
+| [0202-happy-number](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/0283-move-zeroes) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/0067-add-binary) |
+| [0202-happy-number](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/0202-happy-number) |
 | [0486-predict-the-winner](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/0486-predict-the-winner) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/0202-happy-number) |
 | [1331-rank-transform-of-an-array](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -214,4 +217,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
