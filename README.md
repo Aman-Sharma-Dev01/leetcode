@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/0067-add-binary) |
+| [0402-remove-k-digits](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/0402-remove-k-digits) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3271-hash-divided-string](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/3271-hash-divided-string) |
@@ -170,10 +171,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/0402-remove-k-digits) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/0402-remove-k-digits) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -181,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/0402-remove-k-digits) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Enumeration
 |  |
