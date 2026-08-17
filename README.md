@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [1563-stone-game-v](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/1563-stone-game-v) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/0064-minimum-path-sum) |
 | [0486-predict-the-winner](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/0486-predict-the-winner) |
 | [1301-number-of-paths-with-max-score](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/1301-number-of-paths-with-max-score) |
+| [1563-stone-game-v](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/1563-stone-game-v) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3620-network-recovery-pathways](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/0202-happy-number) |
 | [0486-predict-the-winner](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/0486-predict-the-winner) |
+| [1563-stone-game-v](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/1563-stone-game-v) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -215,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/0486-predict-the-winner) |
+| [1563-stone-game-v](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/1563-stone-game-v) |
 ## Backtracking
 |  |
 | ------- |
