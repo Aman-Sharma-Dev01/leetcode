@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/0202-happy-number) |
 | [0486-predict-the-winner](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/0486-predict-the-winner) |
+| [0836-rectangle-overlap](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/0836-rectangle-overlap) |
 | [1563-stone-game-v](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/1563-stone-game-v) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -251,4 +252,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
