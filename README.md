@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/0031-next-permutation) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/0031-next-permutation) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/0011-container-with-most-water) |
 | [0402-remove-k-digits](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/0402-remove-k-digits) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
