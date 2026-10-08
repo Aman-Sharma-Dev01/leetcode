@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/0115-distinct-subsequences) |
 | [0402-remove-k-digits](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/0402-remove-k-digits) |
+| [1021-remove-outermost-parentheses](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3271-hash-divided-string](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/3271-hash-divided-string) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/0402-remove-k-digits) |
+| [1021-remove-outermost-parentheses](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Greedy
 |  |
@@ -265,4 +267,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3525-find-x-value-of-array-ii](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/3525-find-x-value-of-array-ii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
