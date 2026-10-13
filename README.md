@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/0064-minimum-path-sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/0283-move-zeroes) |
 | [0486-predict-the-winner](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/0486-predict-the-winner) |
 | [0704-binary-search](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/0704-binary-search) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/0704-binary-search) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Hash Table
 |  |
@@ -257,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Floyd's Cycle Finding Algorithm
