@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1563-stone-game-v](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/1563-stone-game-v) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/0704-binary-search) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/3620-network-recovery-pathways) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/0056-merge-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aman-Sharma-Dev01/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
